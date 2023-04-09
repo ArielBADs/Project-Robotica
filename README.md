@@ -3,10 +3,10 @@ Neste projeto, uso a API [CoppeliaSim](https://www.coppeliarobotics.com/) para e
 determinados números lidos de um arquivo .txt em uma urna e votar. 
 
 # Objetivos
-* __Ler um arquivo .txt__
-* __Conectar a API de forma remota e controlar o Niryo One__
-* __Certificar de que o braço mecânico aperte os números corretos e depois confirme na urna__
-* __Retornar a posição inicial, finalizar a conexão e fechar o arquivo lido__
+* __Ler um arquivo em formato de texto.__
+* __Conectar a API de forma remota e controlar o Niryo One.__
+* __Certificar de que o braço mecânico aperte os números corretos e depois confirme na urna.__
+* __Retornar a posição inicial, finalizar a conexão e fechar o arquivo lido.__
 
 # Desenvolvimento
 Tecnicamente o desenvolvimento do projeto não foi complicado, porém como não escolhi desenvolver-lo a partir da cinemática inversa, muitas tentativas e erros tiveram de 
