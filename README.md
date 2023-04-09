@@ -1,4 +1,4 @@
-# Project-CoppeliaSim
+# Project-Robotica
 Neste projeto, uso a API [CoppeliaSim](https://www.coppeliarobotics.com/) para em uma simulação controlar um Niryo One (Braço mecânico de 6 eixos), a fim de inserir 
 determinados números lidos de um arquivo .txt em uma urna e votar. 
 
