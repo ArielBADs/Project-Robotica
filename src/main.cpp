@@ -9,7 +9,7 @@ extern "C" {
 int main(int argc, char* argv[])
 {
     //Abrir e ler o arquivo
-    char votos[101];
+    char votos[8192];
     FILE* arq = fopen("votos.txt", "r");
 
     if (arq == NULL) {
